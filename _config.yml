@@ -1,6 +1,6 @@
 # site settings
 title: Richard Helsingius
-subtitle: Portfolio
+subtitle: 
 email: richard.helsingius@gmail.com
 description: Hi, this is my portfolio. - Rici
 baseurl: "/ricihelsingius" # the subpath of your site, e.g. /blog
