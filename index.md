@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Richard Helsingius'
+description: Hi, I am Richard Helsingius. Finance Student at Hanken School of Economics and Junior Analyst at a rapidly growing startup in the Fintech sector. Active, multilingual and fascinated by data.
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Hello, I'm Richard Helsingius. I'm studying Finance at Hanken School of Economics and am fortunate to apply some of what I learn as a Junior Analyst at a Fintech startup. Data has always intrigued me, and I'm constantly learning how it shapes our financial world. Beyond my professional and academic commitments, I enjoy staying active to maintain a balanced lifestyle.
