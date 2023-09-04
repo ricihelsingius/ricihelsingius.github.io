@@ -29,7 +29,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/ricihelsingius/MandA" class="image">
 			<img src="{% link assets/images/m&a.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
