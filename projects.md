@@ -35,11 +35,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>PowerBI</h3>
+					<h3>M&A</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This project visualizes the timeline of acquisitions made by various parent companies over the years, providing insights into their acquisition patterns and trends. Through an interactive chart, users can explore the number of acquisitions each company made annually, with added details on the acquired company and sector available upon hover.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="file:///C:/Users/Rici/Desktop/m&a_plotly/m&a.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
