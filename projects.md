@@ -13,7 +13,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://rici.substack.com/p/amazon-eda" class="image">
 			<img src="{% link assets/images/amazon_tn.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
