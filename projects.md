@@ -30,12 +30,12 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/m&a.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>M&A</h3>
+					<h3>Interactive M&A Timeline</h3>
 				</header>
 				<p>This project visualizes the timeline of acquisitions made by various parent companies over the years, providing insights into their acquisition patterns and trends. Through an interactive chart, users can explore the number of acquisitions each company made annually, with added details on the acquired company and sector available upon hover.</p>
 				<ul class="actions">
