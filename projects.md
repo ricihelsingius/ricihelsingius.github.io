@@ -39,7 +39,7 @@ nav-menu: true
 				</header>
 				<p>This project visualizes the timeline of acquisitions made by various parent companies over the years, providing insights into their acquisition patterns and trends. Through an interactive chart, users can explore the number of acquisitions each company made annually, with added details on the acquired company and sector available upon hover.</p>
 				<ul class="actions">
-					<li><a href="file:///C:/Users/Rici/Desktop/m&a_plotly/m&a.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/ricihelsingius/MandA" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
